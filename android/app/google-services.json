@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759148190161",
+    "project_id": "engineast-bc51b",
+    "storage_bucket": "engineast-bc51b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759148190161:android:f3af177f08078a3d8f68f0",
+        "android_client_info": {
+          "package_name": "com.example.engine_ast1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkGMS_KaGMEM1iecU5TBeH_LvCpJpgco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
