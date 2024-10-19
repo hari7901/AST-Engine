@@ -31,6 +31,8 @@ cd yourrepositoryname
 # Install dependencies
 flutter pub get
 
+after you do this, you should be able to run the project using the backend too as the google-service.json file is already present. If you are not able to use the backend services, you can follow the steps below
+
 # Setup Firebase
 
 Firebase Setup Options:-
